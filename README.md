@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=NEXCODE+-+Academia+de+Tecnología;Cursos+de+Programación+y+Cloud;Desarrollo+Web+Profesional;Data+Engineering+desde+cero" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=11AAFF&width=600&center=true&lines=NEXCODE+-+Academia+de+Tecnología;Cursos+de+Programación+y+Cloud;Desarrollo+Web+Profesional;Data+Engineering+desde+Cero" alt="Typing SVG" />
+  </a>
 </p>
 <br>
 
@@ -32,18 +32,16 @@
 - 🧱 Fundamentos de programación (Python, C, JavaScript)
 - 🗃️ Bases de datos: MySQL, PostgreSQL, MongoDB
 - ☁️ Cloud & Big Data: Azure, Databricks, Data Warehouse
-- 💻 Desarrollo web: HTML, CSS, JavaScript, Node.js, React
-- 🧪 Backend y APIs REST con Express.js
+- 💻 Desarrollo web: HTML, CSS, JavaScript
+- 🧪 Backend y APIs
 - 📊 Proyectos de análisis de datos reales
 
 ### 🌐 Desarrollo Web:
 
 - Sitios web responsivos y rápidos
-- Apps web con React y Next.js
 - Dashboards y paneles de control
 - Portafolios, tiendas y sistemas internos
 - Integración de APIs y bases de datos
-- Optimización SEO y rendimiento
 
 ---
 
@@ -58,9 +56,7 @@
 ## 📦 Herramientas y ventajas de la plataforma
 
 - Plataforma web con acceso 24/7
-- Certificados digitales
 - Comunidad activa y privada
-- Mentores en tiempo real
 - Repositorio de proyectos reales
 - Recursos descargables y prácticas guiadas
 
@@ -69,9 +65,6 @@
 ## 🌍 Conecta con nosotros
 
 <p align="left">
-  <a href="https://www.linkedin.com/company/nexcode" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" />
-  </a>
   <a href="https://nexcode.io" target="_blank">
     <img src="https://img.shields.io/badge/NEXCODE-WebSite-blue?style=for-the-badge" />
   </a>
