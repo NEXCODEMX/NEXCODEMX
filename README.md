@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=typing&color=11AAFF&height=100&section=header&text=NEXCODE%20-%20Academia%20de%20Tecnología&fontSize=28" alt="NEXCODE typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=11AAFF&center=true&width=450&lines=NEXCODE+-+Academia+de+Tecnología;Cursos+de+Programación+y+Cloud;Desarrollo+Web+Profesional;Data+Engineering+desde+Cero" alt="Typing SVG" />
 </p>
 
 <br>
