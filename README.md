@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=11AAFF&width=600&center=true&lines=NEXCODE+-+Academia+de+Tecnología;Cursos+de+Programación+y+Cloud;Desarrollo+Web+Profesional;Data+Engineering+desde+Cero" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=11AAFF&height=100&section=header&text=NEXCODE%20-%20Academia%20de%20Tecnología&fontSize=28" alt="NEXCODE typing banner" />
 </p>
+
 <br>
 
 <h2 align="center">🚀 Bienvenido a NEXCODE</h2>
