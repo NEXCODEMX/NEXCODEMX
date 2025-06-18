@@ -1,10 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=NEXCODE+-+Academia+de+Tecnología;Aprende+Desarrollo+Web+y+Más;Cursos+Online+Interactivos;Construye+tu+Futuro+Digital" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=NEXCODE+-+Academia+de+Tecnología;Cursos+de+Programación+y+Cloud;Desarrollo+Web+Profesional;Data+Engineering+desde+cero" alt="Typing SVG" />
+</a>
 </p>
 <br>
 
 <h2 align="center">🚀 Bienvenido a NEXCODE</h2>
-<p align="center">La plataforma para transformar tu pasión en habilidades reales</p>
+<p align="center">Formamos a la nueva generación de desarrolladores y expertos en datos</p>
 
 ---
 
@@ -12,66 +14,59 @@
 
 <img align="right" width="300" height="250" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-**NEXCODE** es una plataforma de formación y desarrollo enfocada en tecnología, programación y habilidades digitales.
+**NEXCODE** es una plataforma educativa moderna con enfoque en el desarrollo profesional real.
 
-### 🎯 ¿Qué hacemos?
+### 🎯 Lo que hacemos:
 
-- 👨‍🏫 **Cursos organizados en rutas de aprendizaje**
-- 🧠 Formación práctica con enfoque en empleabilidad
-- 💻 **Desarrollo Web a medida** para clientes y proyectos reales
-- 🤝 Comunidad activa y colaborativa
-
----
-
-## 💼 Desarrollo Web Profesional
-
-Además de enseñar, **¡construimos!**
-
-🔧 Nuestro equipo desarrolla sitios web modernos, funcionales y optimizados para startups, negocios y proyectos personales.
-
-### Servicios:
-
-- Diseño web responsivo (HTML5, CSS3, JS, Tailwind, Bootstrap)
-- Web apps con React, Next.js, Node.js, Express
-- E-commerce, portafolios, blogs y dashboards
-- Integración con APIs y bases de datos
-- SEO, rendimiento y accesibilidad
-
-> 🌐 ¿Tienes una idea? Nosotros la desarrollamos contigo.
+- 👨‍🏫 Impartimos cursos de tecnología, programación y ciencia de datos.
+- 💼 Desarrollamos sitios y sistemas web para clientes.
+- ☁️ Enseñamos fundamentos y herramientas **cloud & data engineering**.
+- 🧠 Nuestra prioridad es que aprendas haciendo.
 
 ---
 
-## 📚 Rutas de aprendizaje destacadas
+## 💼 Servicios
 
-- 💻 **Desarrollo Web Frontend & Backend**
-- 📱 **Apps móviles multiplataforma**
-- ☁️ **Cloud & DevOps**
-- 🤖 **Inteligencia Artificial y Machine Learning**
-- 🛠️ **Fundamentos de Programación**
-- 🎨 **Diseño UI/UX**
-- 📊 **Análisis de Datos y SQL**
+### 🎓 Formación y Cursos:
+
+- 🧱 Fundamentos de programación (Python, C, JavaScript)
+- 🗃️ Bases de datos: MySQL, PostgreSQL, MongoDB
+- ☁️ Cloud & Big Data: Azure, Databricks, Data Warehouse
+- 💻 Desarrollo web: HTML, CSS, JavaScript, Node.js, React
+- 🧪 Backend y APIs REST con Express.js
+- 📊 Proyectos de análisis de datos reales
+
+### 🌐 Desarrollo Web:
+
+- Sitios web responsivos y rápidos
+- Apps web con React y Next.js
+- Dashboards y paneles de control
+- Portafolios, tiendas y sistemas internos
+- Integración de APIs y bases de datos
+- Optimización SEO y rendimiento
 
 ---
 
-## 🛠️ Tecnologías que puedes aprender
+## 🔧 Tecnologías y herramientas que enseñamos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,c,cpp,mysql,mongodb,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,c,mysql,postgres,mongodb,azure,figma,git,github&theme=dark" />
 </p>
 
 ---
 
-## 📦 Herramientas y recursos
+## 📦 Herramientas y ventajas de la plataforma
 
-- Plataforma web moderna
-- Certificados verificables
-- Proyectos prácticos
-- Acceso a Discord de comunidad
-- Actualizaciones constantes
+- Plataforma web con acceso 24/7
+- Certificados digitales
+- Comunidad activa y privada
+- Mentores en tiempo real
+- Repositorio de proyectos reales
+- Recursos descargables y prácticas guiadas
 
 ---
 
-## 🌍 Síguenos y únete a la comunidad
+## 🌍 Conecta con nosotros
 
 <p align="left">
   <a href="https://www.linkedin.com/company/nexcode" target="_blank">
@@ -80,21 +75,21 @@ Además de enseñar, **¡construimos!**
   <a href="https://nexcode.io" target="_blank">
     <img src="https://img.shields.io/badge/NEXCODE-WebSite-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Demian369369/NEXCODE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code-lightgrey?style=for-the-badge&logo=github" />
+  <a href="https://github.com/NEXCODEMX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-NEXCODEMX-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 📈 Estadísticas y progreso del proyecto
+## 📈 Estadísticas de GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Demian369369&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NEXCODEMX&count_private=true&show_icons=true&theme=tokyonight" />
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demian369369&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEXCODEMX&layout=compact&theme=tokyonight" />
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-> 💡 *Creado por Ragknos Demian — NEXCODE: Formación y desarrollo web que impulsa tu futuro digital.*
+> 💡 *NEXCODE — Enseñamos, desarrollamos y acompañamos tu transformación digital.*
